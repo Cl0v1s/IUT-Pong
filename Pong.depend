@@ -1,0 +1,605 @@
+# depslib dependency file v1.0
+1413051091 source:/home/clovis/Pong/Lib.cc
+	"Lib.h"
+
+1413051566 /home/clovis/Pong/Lib.h
+	<stdlib.h>
+	<string>
+	<SDL/SDL.h>
+	<SDL_image.h>
+
+1413053099 .h>
+
+1390221529 /usr/include/SDL/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696840 e.h"
+
+1399696839 /usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1399696840 /usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1413052929 
+
+1399696839 /usr/include/SDL/SDL_platform.h
+
+1399696840 /usr/include/SDL/begin_code.h
+
+1399696840 /usr/include/SDL/close_code.h
+
+1399696839 /usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_keysym.h
+
+1399696839 /usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696840 /usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696839 /usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1399696839 .h"
+
+1399696839 /usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696840 /usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399696840 /usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1413052859 source:/home/clovis/Pong/main.cpp
+	<cstdlib>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	"Lib.h"
+	"Entities.h"
+	"Scene.h"
+
+1413053075 /home/clovis/Pong/Scene.h
+	<stdlib.h>
+	<string>
+	"Entities.h"
+
+1413053047 h"
+
+1413052929 source:/home/clovis/Pong/Scene.cc
+	"Scene.h"
+
+1413053047 source:/home/clovis/Pong/Entities.cc
+	"Entities.h"
+
+1413053099 /home/clovis/Pong/Entities.h
+	<stdlib.h>
+	<string>
+	<SDL/SDL.h>
+	<SDL_image.h>
+
+1413121859 source:/home/clovis/Dropbox/Pong (copie)/Entities.cc
+	"Entities.h"
+
+1413118322 /home/clovis/Dropbox/Pong (copie)/Entities.h
+	<stdlib.h>
+	<iostream>
+	<string>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	"Lib.h"
+
+1413376903 /usr/include/SDL/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1404158411 /usr/include/SDL/SDL_platform.h
+
+1404158411 /usr/include/SDL/begin_code.h
+
+1404158411 /usr/include/SDL/close_code.h
+
+1404158411 /usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_keysym.h
+
+1404158411 /usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1404158411 /usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1404158411 /usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1413116473 /home/clovis/Dropbox/Pong (copie)/Lib.h
+	<stdlib.h>
+	<string>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<iostream>
+
+1413117578 source:/home/clovis/Dropbox/Pong (copie)/Lib.cc
+	"Lib.h"
+
+1413122926 source:/home/clovis/Dropbox/Pong (copie)/main.cpp
+	"main.h"
+
+1413120313 /home/clovis/Dropbox/Pong (copie)/main.h
+	<cstdlib>
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	"Lib.h"
+	"Entities.h"
+	"Scene.h"
+
+1413122863 /home/clovis/Dropbox/Pong (copie)/Scene.h
+	<stdlib.h>
+	<string>
+	"main.h"
+	"Entities.h"
+
+1413122823 source:/home/clovis/Dropbox/Pong (copie)/Scene.cc
+	"Scene.h"
+
+1414662871 source:/home/clovis/Dropbox/Pong/Entities.cc
+	"Entities.h"
+	"main.h"
+
+1414494670 /home/clovis/Dropbox/Pong/Entities.h
+	<stdlib.h>
+	<iostream>
+	<string>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	"Lib.h"
+
+1414494685 /home/clovis/Dropbox/Pong/Lib.h
+	<stdlib.h>
+	<string>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<sstream>
+	<iostream>
+	<math.h>
+
+1414605879 source:/home/clovis/Dropbox/Pong/Lib.cc
+	"Lib.h"
+
+1414605677 source:/home/clovis/Dropbox/Pong/main.cpp
+	"main.h"
+
+1414494697 /home/clovis/Dropbox/Pong/main.h
+	<cstdlib>
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"Lib.h"
+	"Entities.h"
+	"Scene.h"
+
+1414494711 /home/clovis/Dropbox/Pong/Scene.h
+	<stdlib.h>
+	<string>
+	"main.h"
+	"Entities.h"
+	<sstream>
+
+1414605916 source:/home/clovis/Dropbox/Pong/Scene.cc
+	"Scene.h"
+
+1413904822 source:/mnt/info-nfs/users/cportron/programmation/Pong/Entities.cc
+	"Entities.h"
+	"main.h"
+
+1413904628 /mnt/info-nfs/users/cportron/programmation/Pong/Entities.h
+	<stdlib.h>
+	<iostream>
+	<string>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	"Lib.h"
+
+1413906861 /mnt/info-nfs/users/cportron/programmation/Pong/Lib.h
+	<stdlib.h>
+	<string>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<sstream>
+	<iostream>
+	<math.h>
+
+1413906826 source:/mnt/info-nfs/users/cportron/programmation/Pong/Lib.cc
+	"Lib.h"
+
+1413905905 source:/mnt/info-nfs/users/cportron/programmation/Pong/main.cpp
+	"main.h"
+
+1413902952 /mnt/info-nfs/users/cportron/programmation/Pong/main.h
+	<cstdlib>
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"Lib.h"
+	"Entities.h"
+	"Scene.h"
+
+1413906625 /mnt/info-nfs/users/cportron/programmation/Pong/Scene.h
+	<stdlib.h>
+	<string>
+	"main.h"
+	"Entities.h"
+	<sstream>
+
+1413906687 source:/mnt/info-nfs/users/cportron/programmation/Pong/Scene.cc
+	"Scene.h"
+
+1413915585 source:/home/clovis/Bureau/Pong.2/Entities.cc
+	"Entities.h"
+	"main.h"
+
+1413904628 /home/clovis/Bureau/Pong.2/Entities.h
+	<stdlib.h>
+	<iostream>
+	<string>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	"Lib.h"
+
+1413906860 /home/clovis/Bureau/Pong.2/Lib.h
+	<stdlib.h>
+	<string>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<sstream>
+	<iostream>
+	<math.h>
+
+1413902952 /home/clovis/Bureau/Pong.2/main.h
+	<cstdlib>
+	<iostream>
+	<SDL/SDL.h>
+	<SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"Lib.h"
+	"Entities.h"
+	"Scene.h"
+
+1413916725 /home/clovis/Bureau/Pong.2/Scene.h
+	<stdlib.h>
+	<string>
+	"main.h"
+	"Entities.h"
+	<sstream>
+
+1413906826 source:/home/clovis/Bureau/Pong.2/Lib.cc
+	"Lib.h"
+
+1413916706 source:/home/clovis/Bureau/Pong.2/main.cpp
+	"main.h"
+
+1413917383 source:/home/clovis/Bureau/Pong.2/Scene.cc
+	"Scene.h"
+
